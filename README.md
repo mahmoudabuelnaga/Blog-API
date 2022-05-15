@@ -1,7 +1,7 @@
 # Blog-API
 
 Schema Swagger View
-![Uploading Schema Swagger View.png…]()
+![Schema Swagger View](https://user-images.githubusercontent.com/40750581/168454918-2ad13210-833a-4ae7-96a2-b5d70b1488c5.png)
 
 
 Schema Redoc View
